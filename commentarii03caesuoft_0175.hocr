@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentarii03caesuoft_0175.png"; bbox 0 0 1638 2600; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 406 888 1103 942">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 406 888 1103 942">
+     <span class='ocr_line' id='line_1_1' title="bbox 406 888 1103 942; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 406 888 462 942; x_wconf 81' lang='lat' dir='ltr'><strong>C.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 502 889 695 941; x_wconf 89' lang='lat' dir='ltr'><strong>IULII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 738 888 1103 942; x_wconf 81' lang='lat' dir='ltr'><strong>CAESARIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 605 1052 901 1090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 605 1052 901 1090">
+     <span class='ocr_line' id='line_1_2' title="bbox 605 1052 901 1090; baseline 0.007 -10"><span class='ocrx_word' id='word_1_4' title='bbox 605 1052 632 1090; x_wconf 85' lang='lat' dir='ltr'>Q</span> <span class='ocrx_word' id='word_1_5' title='bbox 639 1052 901 1082; x_wconf 76' lang='lat' dir='ltr'>UUUUUUUU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 147 1188 1357 1263">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 147 1188 1357 1263">
+     <span class='ocr_line' id='line_1_3' title="bbox 147 1188 1357 1263; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 147 1188 1357 1263; x_wconf 80' lang='lat' dir='ltr'><strong>COMMENTARIUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 316 1391 1190 1440">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 316 1391 1190 1440">
+     <span class='ocr_line' id='line_1_4' title="bbox 316 1391 1190 1440; baseline 0.001 -1"><span class='ocrx_word' id='word_1_7' title='bbox 316 1391 404 1439; x_wconf 84' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 447 1393 674 1439; x_wconf 89' lang='lat' dir='ltr'>BELLO</span> <span class='ocrx_word' id='word_1_9' title='bbox 716 1392 1190 1440; x_wconf 84' lang='lat' dir='ltr'><strong>HISPANIENSI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 151 2417 1207 2448">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 151 2417 1207 2448">
+     <span class='ocr_line' id='line_1_5' title="bbox 151 2417 1207 2448; baseline 0.008 -4"><span class='ocrx_word' id='word_1_10' title='bbox 151 2418 180 2444; x_wconf 87' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 202 2419 339 2446; x_wconf 75' lang='lat' dir='ltr'>muns</span> <span class='ocrx_word' id='word_1_12' title='bbox 360 2421 524 2447; x_wconf 73' lang='lat' dir='ltr'>CAESAR.</span> <span class='ocrx_word' id='word_1_13' title='bbox 554 2422 613 2447; x_wconf 82' lang='lat' dir='ltr'><strong>m.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1187 2417 1207 2448; x_wconf 80' lang='lat'>8</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
